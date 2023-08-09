@@ -29,6 +29,8 @@
 <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express" alt="express"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-transparent?style=for-the-badge&logo=php" alt="php"/> </a> 
 <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-transparent?style=for-the-badge&logo=laravel" alt="laravel"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/VUEJS-blue?style=for-the-badge&logo=vuedotjs" alt="vue"/> </a>
+<a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://img.shields.io/badge/VUETIFY-blue?style=for-the-badge&logo=vuetify" alt="vuetify"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MYSQL-darkblue?style=for-the-badge&logo=mysql" alt="mysql"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/DOCKER-lightblue?style=for-the-badge&logo=docker" alt="docker"/> </a>
 <a href="https://eslint.org/" target="_blank"> <img src="https://img.shields.io/badge/ESLINT-purple?style=for-the-badge&logo=eslint" alt="eslint"/> </a>
