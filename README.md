@@ -25,9 +25,11 @@
 <a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://img.shields.io/badge/REDUX-blue?style=for-the-badge&logo=redux" alt="redux"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=tailwindcss" alt="tailwindcss"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/BOOTSTRAP-lightblue?style=for-the-badge&logo=bootstrap" alt="bootstrap"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python" alt="python"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express" alt="express"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-transparent?style=for-the-badge&logo=php" alt="php"/> </a> 
 <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-transparent?style=for-the-badge&logo=laravel" alt="laravel"/> </a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/MYSQL-darkblue?style=for-the-badge&logo=mysql" alt="mysql"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgabor92&show_icons=true&locale=en&layout=compact" alt="dgabor92" /></p>
