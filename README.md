@@ -22,6 +22,7 @@
 <a href="https://www.tutorialspoint.com/css/css3_tutorial.htm" target="_blank"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="css3"/> </a>
 <a href="https://www.netlify.com/?attr=homepage-modal" target="_blank"> <img src="https://img.shields.io/badge/NETLIFY-blue?style=for-the-badge&logo=netlify" alt="netlify"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/FIREBASE-blue?style=for-the-badge&logo=firebase" alt="firebase"/> </a>
+<a href="https://vercel.com/" target="_blank"> <img src="https://img.shields.io/badge/VERCEL-black?style=for-the-badge&logo=vercel" alt="vercel"/> </a>
 <a href="https://jwt.io/" target="_blank"> <img src="https://img.shields.io/badge/JWT-darkblue?style=for-the-badge&logo=jsonwebtokens" alt="jsonwebtokens"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JACASCRIPT-black?style=for-the-badge&logo=javascript" alt="js"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TYPESCRIPT-lightblue?style=for-the-badge&logo=typescript" alt="ts"/> </a>
@@ -40,6 +41,7 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/DOCKER-lightblue?style=for-the-badge&logo=docker" alt="docker"/> </a>
 <a href="https://eslint.org/" target="_blank"> <img src="https://img.shields.io/badge/ESLINT-purple?style=for-the-badge&logo=eslint" alt="eslint"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/POSTMAN-yellow?style=for-the-badge&logo=postman" alt="postman"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/FIGMA-red?style=for-the-badge&logo=figma" alt="figma"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgabor92&show_icons=true&locale=en&layout=compact" alt="dgabor92" /></p>
