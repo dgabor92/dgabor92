@@ -17,6 +17,7 @@
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/NPM-blue?style=for-the-badge&logo=npm" alt="npm"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JACASCRIPT-black?style=for-the-badge&logo=javascript" alt="js"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TYPESCRIPT-lightblue?style=for-the-badge&logo=typescript" alt="ts"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TAILWIND-lightblue?style=for-the-badge&logo=tailwindcss" alt="tailwindcss"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/BOOTSTRAP-lightblue?style=for-the-badge&logo=bootstrap" alt="bootstrap"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express" alt="express"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-transparent?style=for-the-badge&logo=laravel" alt="laravel"/> </a>
