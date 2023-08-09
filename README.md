@@ -18,6 +18,8 @@
 <a href="https://redis.io/" target="_blank"> <img src="https://img.shields.io/badge/REDIS-white?style=for-the-badge&logo=redis" alt="redis"/> </a>
 <a href="https://www.html.am/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5" alt="html"/> </a>
 <a href="https://www.tutorialspoint.com/css/css3_tutorial.htm" target="_blank"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="css3"/> </a>
+<a href="https://www.netlify.com/?attr=homepage-modal" target="_blank"> <img src="https://img.shields.io/badge/NETLIFY-blue?style=for-the-badge&logo=netlify" alt="netlify"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/FIREBASE-blue?style=for-the-badge&logo=firebase" alt="firebase"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JACASCRIPT-black?style=for-the-badge&logo=javascript" alt="js"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TYPESCRIPT-lightblue?style=for-the-badge&logo=typescript" alt="ts"/> </a>
 <a href="https://react.dev/" target="_blank"> <img src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react" alt="react"/> </a>
