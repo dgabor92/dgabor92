@@ -10,7 +10,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.shields.io/badge/NODE-transparent?style=for-the-badge&logo=node" alt="nodejs"/> </a> <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/NPM-blue?style=for-the-badge&logo=npm" alt="npm"/> </a> <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express" alt="express"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-transparent?style=for-the-badge&logo=laravel" alt="laravel"/> </a> <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-transparent?style=for-the-badge&logo=php" alt="php"/> </a> </p>
+<p align="left"> 
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://img.shields.io/badge/NODE-transparent?style=for-the-badge&logo=node" alt="nodejs"/> </a>
+<a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/NPM-blue?style=for-the-badge&logo=npm" alt="npm"/> </a>
+<a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/JACASCRIPT-black?style=for-the-badge&logo=javascript" alt="js"/> </a>
+<a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript" alt="ts"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express" alt="express"/> </a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-transparent?style=for-the-badge&logo=laravel" alt="laravel"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-transparent?style=for-the-badge&logo=php" alt="php"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgabor92&show_icons=true&locale=en&layout=compact" alt="dgabor92" /></p>
 
