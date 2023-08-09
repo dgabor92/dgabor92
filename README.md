@@ -32,7 +32,7 @@
 <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/MYSQL-darkblue?style=for-the-badge&logo=mysql" alt="mysql"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/DOCKER-lightblue?style=for-the-badge&logo=docker" alt="docker"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/ESLINT-purple?style=for-the-badge&logo=eslint" alt="eslint"/> </a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/POSTMAN-yellow?style=for-the-badge&logo=eslint" alt="postman"/> </a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/POSTMAN-yellow?style=for-the-badge&logo=postman" alt="postman"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgabor92&show_icons=true&locale=en&layout=compact" alt="dgabor92" /></p>
