@@ -15,9 +15,11 @@
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="github"/> </a>
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.shields.io/badge/NODEJS-transparent?style=for-the-badge&logo=nodedotjs" alt="nodejs"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/NPM-blue?style=for-the-badge&logo=npm" alt="npm"/> </a>
+<a href="https://www.html.am/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5" alt="html"/> </a>
+<a href="https://www.tutorialspoint.com/css/css3_tutorial.htm" target="_blank"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="css3"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JACASCRIPT-black?style=for-the-badge&logo=javascript" alt="js"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TYPESCRIPT-lightblue?style=for-the-badge&logo=typescript" alt="ts"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TAILWIND-lightblue?style=for-the-badge&logo=tailwindcss" alt="tailwindcss"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=tailwindcss" alt="tailwindcss"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/BOOTSTRAP-lightblue?style=for-the-badge&logo=bootstrap" alt="bootstrap"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express" alt="express"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-transparent?style=for-the-badge&logo=laravel" alt="laravel"/> </a>
