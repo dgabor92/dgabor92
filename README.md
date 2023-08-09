@@ -13,6 +13,7 @@
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git" alt="git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="github"/> </a>
+<a href="https://www.npmjs.com/package/dotenv" target="_blank"> <img src="https://img.shields.io/badge/.ENV-black?style=for-the-badge&logo=dotenv" alt="dotenv"/> </a>
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.shields.io/badge/NODEJS-transparent?style=for-the-badge&logo=nodedotjs" alt="nodejs"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/NPM-blue?style=for-the-badge&logo=npm" alt="npm"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="https://img.shields.io/badge/REDIS-white?style=for-the-badge&logo=redis" alt="redis"/> </a>
