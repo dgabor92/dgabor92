@@ -4,10 +4,6 @@
 
 **FULL-STACK DEVELOPER &nbsp;·&nbsp; 7+ YEARS &nbsp;·&nbsp; DEBRECEN**
 
-![React / Next.js](https://img.shields.io/badge/React%20%2F%20Next.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python / FastAPI](https://img.shields.io/badge/Python%20%2F%20FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Claude API / pgvector](https://img.shields.io/badge/Claude%20API%20%2F%20pgvector-D97706?style=flat-square&logo=anthropic&logoColor=white)
-
 Designing and shipping full-stack products — from modern web frontends to AI-powered backends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%A1bor-deutsch-aa3952152/)
